@@ -1,5 +1,50 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "meuprojeto3",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "meuprojeto4",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "meuprojeto5",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
   "categories": [
     {
       "id": 1,
