@@ -7,13 +7,31 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 300,
+      "cost": 3800,
       "services": [
         {
           "name": "serviço teste 2",
           "cost": "300",
           "description": "testando",
           "id": "dba0be12-3129-43f1-9295-3494eeb11e4e"
+        },
+        {
+          "name": "Contratar gestor",
+          "cost": "1700",
+          "description": "Gestor para cuidar do planejamento do projeto.",
+          "id": "66ae1f0a-0fa0-4129-ad08-47959327ee0a"
+        },
+        {
+          "name": "Contratar gestor",
+          "cost": "1700",
+          "description": "Gestor para cuidar do planejamento do projeto.",
+          "id": "66ae1f0a-0fa0-4129-ad08-47959327ee0a"
+        },
+        {
+          "name": "teste novo serviço",
+          "cost": "100",
+          "description": "teste",
+          "id": "2b7b6167-350d-41a7-a5a0-f8432c78b2fa"
         }
       ],
       "id": 3
